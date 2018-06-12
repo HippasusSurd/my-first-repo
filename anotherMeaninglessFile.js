@@ -1,3 +1,3 @@
-let x = 1;
-x += 7;
+let x = 11;
+x += 8;
 let s = #"The magic number is {x}";
